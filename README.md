@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?text=JeongMin%20Kim&textBg=False&type=rect&color=gradient&customColorList=0,2,2,2,2,3&height=400)
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=JeongMin-98">
 </p>
 <p align="right">
