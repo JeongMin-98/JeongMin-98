@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JeongMin-98">
 </p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeongmin98)](https://solved.ac/jeongmin98)
+<p align="right">
+<img src = "http://mazassumnida.wtf/api/generate_badge?boj=jeongmin98">
+</p>
