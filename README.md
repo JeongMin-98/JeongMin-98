@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=JeongMin-98">
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeongmin98)](https://solved.ac/jeongmin98)
