@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?text=JeongMin%20Kim&textBg=False&type=rect&color=gradient&customColorList=0,2,2,2,2,3&height=400)
 
 # About Me
 
 ## Introduction
 
-Hello! I am a college student majoring in software engineering. I am primarily interested in Perception Engineering(Computer Vision, LiDAR and Camera Fusion etc.) I would like to work with you to develop my skills.
+Hello! I am a university student majoring in software engineering. I am primarily interested in Perception Engineering(Computer Vision, LiDAR and Camera Fusion etc.) I would like to work with you to develop my skills.
 
 ## Skills
 
-`Python`, `Pytorch`, `ROS`, OpenCV, C++, Linux, git
+`Python`, `Pytorch`, `ROS`, `OpenCV`, `C++`, `Linux`, `git`
 
 ## Education
 
@@ -62,7 +61,3 @@ Hello! I am a college student majoring in software engineering. I am primarily i
 - Email: [jeongmin981@gmail.com](mailto:jeongmin981@gmail.com)
 - Notion: [Notion](https://www.notion.so/miioooiiin/941cdc388e8d43688d9f227b4d8b5571?v=d8e7f73928904619804c374867c2d073)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JeongMin-98">
-  <img src = "http://mazassumnida.wtf/api/generate_badge?boj=jeongmin98">
-</p>
